@@ -1,0 +1,1 @@
+import{_ as a,o as t,a as r,F as c,b as e,d as s}from"./app.30f6698e.js";const n={},o=e("h1",{id:"react2",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#react2","aria-hidden":"true"},"#"),s(" React2")],-1),_=e("p",null,"React2",-1);function d(l,h){return t(),r(c,null,[o,_],64)}var f=a(n,[["render",d],["__file","react2.html.vue"]]);export{f as default};

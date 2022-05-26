@@ -1,0 +1,1 @@
+const e={key:"v-31071e3e",path:"/config.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"Config",slug:"config",children:[]}],git:{updatedTime:1653467754e3,contributors:[{name:"lishun",email:"lishun@longshine.com",commits:1}]},filePathRelative:"config.md"};export{e as data};
